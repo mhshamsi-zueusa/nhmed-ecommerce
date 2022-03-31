@@ -484,7 +484,7 @@
     <!-- /End Cowndown Area -->
 @endforeach --}}
 <!-- Start Shop Blog  -->
-<section class="shop-blog section">
+<section class="shop-blog section" style="display:none;">
     <div class="container">
         <div class="row">
             <div class="col-12">
