@@ -61,6 +61,124 @@
 
 <!--/ End Slider Area -->
 
+
+<!-- Start toplinks content   -->
+<section class="second-top-section pt-4 pb-4">
+    <div class="container">
+        <div class="text-partition pt-5 pb-5">
+            <ul class="wpisset-es-navlinks-links pt-3 pb-3"><li><a title="Bathroom Safety " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Bathroom Safety </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Breathing and Sleeping Aids " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Breathing and Sleeping Aids </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Compression Garments " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Compression Garments </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Hospital Beds " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Hospital Beds </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Incontinence " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Incontinence </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Mastectomy " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Mastectomy </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Maternity Care " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Maternity Care </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Mobility Aids " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Mobility Aids </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Orthopedic Braces " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Orthopedic Braces </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Orthotic Shoes " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Orthotic Shoes </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Ostomy " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Ostomy </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Urologically " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Urologically </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Walking Aids " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Walking Aids </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><a title="Wound Care " href="http://124.29.235.10/designteam/NewHampshireMedicalSupply/" target="_blank"><span>Wound Care </span></a><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li><li><span></span><span class="wpisset-es-navlinks-cursor-wrap"><span class="wpisset-es-navlinks-cursor-holder"><span class="wpisset-es-navlinks-cursor"></span></span></span></li></ul>
+
+        </div>
+      
+    </div>
+</section>
+
+<!-- Start toplinks content   -->
+<section class="home-second-section pt-4 pb-4">
+    
+        <div class="brands-slider pb-5">
+        <div class="row">
+            <div class="col">
+                <div class="brands_slider_container">
+                    <div class="owl-carousel owl-theme brands_slider">
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_2.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_4.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_5.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_3.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_6.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_7.jpg" alt=""></div>
+                        </div>
+                        <div class="owl-item">
+                            <div class="brands_item d-flex flex-column justify-content-center"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1561819026/brands_8.jpg" alt=""></div>
+                        </div>
+                    </div> <!-- Brands Slider Navigation -->
+                    <div class="brands_nav brands_prev"><i class="fas fa-chevron-left"></i></div>
+                    <div class="brands_nav brands_next"><i class="fas fa-chevron-right"></i></div>
+                </div>
+            </div>
+        </div>
+           
+        </div>
+      
+   
+</section>
+
+<!-- Start toplinks content   -->
+<section class="second-top-section bg-white pt-5 pb-5">
+    <div class="container">
+    <div class="wpisset_es_header wpisset_es_header-1137334726 vc_custom_1637674334043"><div class="wpisset-es-header"><h3 class="wpisset-es-header-title">Shop by Brands</h3><div class="wpisset-es-header-sep1"><div class="wpisset-es-header-sep1-icon"><img alt="" src="https://www.nhmedsupply.com/wp-content/uploads/2021/11/medical-cross-23.png"></div></div><div class="wpisset-es-header-description">What do you need today?</div><div class="wpisset-es-header-sep2"></div></div></div>
+        <div class="row brands-listing">
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+          
+        </div>
+        <div class="row brands-listing">
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="#">
+                <img class="brand-list-img" src="https://www.nhmedsupply.com/wp-content/uploads/2022/03/nhms-web-logo.png">
+                </a>
+            </div>
+          
+        </div>
+        <div class="see-more-btn col-sm-12 mx-auto d-flex mb-3">
+            <button class="mx-auto" href="#">See More</button>
+           
+    
+    </div>
+    <div class="slide-top-btn col-sm-12 mx-auto d-flex mt-5"> <button class="mx-auto" onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa fa-angle-up"></i></button></div>
+  
+    </div>
+
+    <div class="col-sm-12 mx-auto d-flex mb-3"><a href="#" class="scroll mx-auto mt-2">Scroll to Top</a></div>
+</section>
+
 <!-- Start Small Banner  -->
 <section class="small-banner section">
     <div class="container-fluid">
@@ -445,6 +563,27 @@
 
 @include('frontend.layouts.newsletter')
 
+
+<section class="home-bottom pt-5 pb-5">
+    <div class="container">
+    <div class="col-sm-6 pt-5 pb-5">
+        <h6>“Come by and enjoy a visit of one of the largest showrooms for medical supplies and DME in the District of Columbia”</h6>
+        <a class="mt-5" href="#">Contact us</a>
+    </div>
+    </div>
+</section>
+
+<section class="yellow-section pt-5 pb-5 mb-5">
+    <div class="container pt-4 pb-4">
+    <div class="col-sm-12">
+        <p>Stop in and visit us today! We are located at 5001 New Hampshire Avenue NW Washington, DC 20011</p>
+        <a class="mt-5" href="#">Get Driving Directions</a>
+    </div>
+    </div>
+</section>
+
+
+
 <!-- Modal -->
 @if($product_lists)
     @foreach($product_lists as $key=>$product)
@@ -754,6 +893,69 @@
             }
             return false
         }
+
+
+        $(document).ready(function(){
+
+if($('.brands_slider').length)
+{
+var brandsSlider = $('.brands_slider');
+
+brandsSlider.owlCarousel(
+{
+loop:true,
+autoplay:true,
+autoplayTimeout:1000,
+nav:false,
+dots:false,
+// autoWidth:true,
+items:6,
+margin:42
+});
+
+if($('.brands_prev').length)
+{
+var prev = $('.brands_prev');
+prev.on('click', function()
+{
+brandsSlider.trigger('prev.owl.carousel');
+});
+}
+
+if($('.brands_next').length)
+{
+var next = $('.brands_next');
+next.on('click', function()
+{
+brandsSlider.trigger('next.owl.carousel');
+});
+}
+}
+
+
+});
     </script>
+    <script>
+//Get the button
+var mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+
 
 @endpush

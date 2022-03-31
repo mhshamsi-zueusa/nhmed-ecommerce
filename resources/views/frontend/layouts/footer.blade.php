@@ -1,66 +1,72 @@
 
 	<!-- Start Footer Area -->
 	<footer class="footer">
+		<div class="footer-contact container">
+		<div class="navbar p-0" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto d-block right-items-menu pt-3">
+      
+
+      <li class="nav-item">
+	  <a class="nav-link" href="tel:2027263100">  Phone - 202-726-3100 </a>
+</li>
+<li class="nav-item">
+	  <a class="nav-link" href="tel:8882108110">  Toll Free - 888-210-8110 </a>
+</li>
+<li class="nav-item">
+	  <a class="nav-link" href="mailto:contact@nhmedsupply.com">  Email - contact@nhmedsupply.com </a>
+</li>
+		</div>
+
 		<!-- Footer Top -->
 		<div class="footer-top section">
 			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-md-6 col-12">
+				<div class="row mb-5">
+					<div class="col-lg-3 col-md-6 col-12 p-0">
 						<!-- Single Widget -->
 						<div class="single-footer about">
-							<div class="logo">
-								<a href="index.html"><img src="{{asset('backend/img/logo2.png')}}" alt="#"></a>
-							</div>
-							@php
-								$settings=DB::table('settings')->get();
-							@endphp
-							<p class="text">@foreach($settings as $data) {{$data->short_des}} @endforeach</p>
-							<p class="call">Got Question? Call us 24/7<span><a href="tel:123456789">@foreach($settings as $data) {{$data->phone}} @endforeach</a></span></p>
-						</div>
-						<!-- End Single Widget -->
-					</div>
-					<div class="col-lg-2 col-md-6 col-12">
-						<!-- Single Widget -->
-						<div class="single-footer links">
-							<h4>Information</h4>
-							<ul>
-								<li><a href="{{route('about-us')}}">About Us</a></li>
-								<li><a href="#">Faq</a></li>
-								<li><a href="#">Terms & Conditions</a></li>
-								<li><a href="{{route('contact')}}">Contact Us</a></li>
-								<li><a href="#">Help</a></li>
+						<h4>About Us</h4>
+						<ul>
+						<li><a href="#">About Us</a></li>
+								<li><a href="#">Services</a></li>
+								<li><a href="#">Reviews</a></li>
 							</ul>
 						</div>
 						<!-- End Single Widget -->
 					</div>
-					<div class="col-lg-2 col-md-6 col-12">
+					<div class="col-lg-3 col-md-6 col-12 p-0">
 						<!-- Single Widget -->
 						<div class="single-footer links">
-							<h4>Customer Service</h4>
+							<h4>Quick Links</h4>
 							<ul>
-								<li><a href="#">Payment Methods</a></li>
-								<li><a href="#">Money-back</a></li>
-								<li><a href="#">Returns</a></li>
-								<li><a href="#">Shipping</a></li>
+								<li><a href="#">Place Prescription Order</a></li>
+								<li><a href="#">WIC</a></li>
+								<li><a href="#">Show Room</a></li>
+								
+							</ul>
+						</div>
+						<!-- End Single Widget -->
+					</div>
+					<div class="col-lg-3 col-md-6 col-12 p-0">
+						<!-- Single Widget -->
+						<div class="single-footer links">
+							<h4>Help</h4>
+							<ul>
+							<li><a href="{{route('contact')}}">Contact Us</a></li>
+								
 								<li><a href="#">Privacy Policy</a></li>
 							</ul>
 						</div>
 						<!-- End Single Widget -->
 					</div>
-					<div class="col-lg-3 col-md-6 col-12">
+					<div class="col-lg-3 col-md-6 col-12 p-0">
 						<!-- Single Widget -->
 						<div class="single-footer social">
-							<h4>Get In Tuch</h4>
+							<h4>Follow Us</h4>
 							<!-- Single Widget -->
-							<div class="contact">
-								<ul>
-									<li>@foreach($settings as $data) {{$data->address}} @endforeach</li>
-									<li>@foreach($settings as $data) {{$data->email}} @endforeach</li>
-									<li>@foreach($settings as $data) {{$data->phone}} @endforeach</li>
-								</ul>
-							</div>
+							
 							<!-- End Single Widget -->
 							<div class="sharethis-inline-follow-buttons"></div>
+							<img class="mt-4 footer-logo mb-4" src="https://www.nhmedsupply.com/wp-content/uploads/2021/11/cropped-d11-2-1-300x72.png">
 						</div>
 						<!-- End Single Widget -->
 					</div>
@@ -69,19 +75,25 @@
 		</div>
 		<!-- End Footer Top -->
 		<div class="copyright">
-			<div class="container">
+			<div class="container p-0">
 				<div class="inner">
 					<div class="row">
 						<div class="col-lg-6 col-12">
 							<div class="left">
-								<p>Copyright © {{date('Y')}} <a href="https://github.com/Prajwal100" target="_blank">Prajwal Rai</a>  -  All Rights Reserved.</p>
+							<ul>
+							
+								
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Site Map</a></li>
+							</ul>
+								<p>Copyright © {{date('Y')}} New Hampshire Medical Supply</p>
 							</div>
 						</div>
-						<div class="col-lg-6 col-12">
+						<!-- <div class="col-lg-6 col-12">
 							<div class="right">
 								<img src="{{asset('backend/img/payments.png')}}" alt="#">
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
