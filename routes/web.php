@@ -31,7 +31,21 @@ Route::get('/','FrontendController@home')->name('home');
 
 // Frontend Routes
 Route::get('/home', 'FrontendController@index');
+
 Route::get('/about-us','FrontendController@aboutUs')->name('about-us');
+Route::get('/services','FrontendController@services')->name('services');
+Route::get('/gallery','FrontendController@gallery')->name('gallery');
+Route::get('/reviews','FrontendController@reviews')->name('reviews');
+Route::get('/contact-us','FrontendController@contactUs')->name('contact-us');
+Route::get('/place-prescription-order','FrontendController@placePrescriptionOrder')->name('place-prescription-order');
+Route::get('/wic','FrontendController@wic')->name('wic');
+Route::get('/showroom','FrontendController@showroom')->name('showroom');
+Route::get('/privacy-policy','FrontendController@privacyPolicy')->name('privacy-policy');
+Route::get('/medical-glossary','FrontendController@medicalGlossary')->name('medical-glossary');
+Route::get('/medicare-guide','FrontendController@medicareGuide')->name('medicare-guide');
+Route::get('/blogs','FrontendController@blogs')->name('blogs');
+Route::get('/resource-center','FrontendController@resourceCenter')->name('resource-center');
+
 Route::get('/contact','FrontendController@contact')->name('contact');
 Route::post('/contact/message','MessageController@store')->name('contact.store');
 Route::get('product-detail/{slug}','FrontendController@productDetail')->name('product-detail');

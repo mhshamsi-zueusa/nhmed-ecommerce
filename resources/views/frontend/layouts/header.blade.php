@@ -239,12 +239,12 @@
 
 				<div class="wpisset-col-md-6 wpisset-col-xs-12 wpisset-end-md wpisset-center-xs ">
 					<ul id="menu-topright-menu" class="wpisset-menu-preheader wpisset-menu-preheader-right">
-						<li id="menu-item-8643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2984 current_page_item menu-item-8643"><a href="http://localhost:8000" aria-current="page"><span>Home</span></a></li>
-						<li id="menu-item-8642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8642"><a href="http://localhost:8000/about-us"><span>About Us</span></a></li>
-						<li id="menu-item-45164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45164"><a href="http://localhost:8000/services"><span>Services</span></a></li>
-						<li id="menu-item-45140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45140"><a href="http://localhost:8000/gallery"><span>Gallery</span></a></li>
-						<li id="menu-item-3116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3116"><a href="http://localhost:8000/reviews"><span>Reviews</span></a></li>
-						<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="http://localhost:8000/contact-us"><span>Contact Us</span></a></li>
+						<li id="menu-item-8643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2984 current_page_item menu-item-8643"><a href="/" aria-current="page"><span>Home</span></a></li>
+						<li id="menu-item-8642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8642"><a href="{{route('about-us')}}"><span>About Us</span></a></li>
+						<li id="menu-item-45164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45164"><a href="{{route('services')}}"><span>Services</span></a></li>
+						<li id="menu-item-45140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45140"><a href="{{route('gallery')}}"><span>Gallery</span></a></li>
+						<li id="menu-item-3116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3116"><a href="{{route('reviews')}}"><span>Reviews</span></a></li>
+						<li id="menu-item-4106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4106"><a href="{{route('contact-us')}}"><span>Contact Us</span></a></li>
 					</ul>
 				</div>
 

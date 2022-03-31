@@ -44,6 +44,54 @@ class FrontendController extends Controller
         return view('frontend.pages.about-us');
     }
 
+    public function services(){
+        return view('frontend.pages.services');
+    }
+
+    public function gallery(){
+        return view('frontend.pages.gallery');
+    }
+
+    public function reviews(){
+        return view('frontend.pages.reviews');
+    }
+
+    public function contactUs(){
+        return view('frontend.pages.contact-us');
+    }
+
+    public function placePrescriptionOrder(){
+        return view('frontend.pages.place-prescription-order');
+    }
+
+    public function wic(){
+        return view('frontend.pages.wic');
+    }
+
+    public function showroom(){
+        return view('frontend.pages.showroom');
+    }
+
+    public function privacyPolicy(){
+        return view('frontend.pages.privacy-policy');
+    }
+
+    public function medicalGlossary(){
+        return view('frontend.pages.medical-glossary');
+    }
+
+    public function medicareGuide(){
+        return view('frontend.pages.medicare-guide');
+    }
+
+    public function blogs(){
+        return view('frontend.pages.blogs');
+    }
+
+    public function resourceCenter(){
+        return view('frontend.pages.resource-center');
+    }
+
     public function contact(){
         return view('frontend.pages.contact');
     }
